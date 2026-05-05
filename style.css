@@ -246,7 +246,7 @@ header.scrolled{
 
 /* FULL SCREEN VIDEO */
 #bg{
-  position:relative;   /* 🔥 маңызды */
+  position:absolute;   /* 🔥 маңызды */
   top:0;
   left:0;
   width:100%;
